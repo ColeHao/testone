@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- corners表示弧度 弧边-->
+    <corners android:radius="4dp"/>
+    <!-- size表示的是高度-->
+    <size android:height="30dp"/>
+    <!-- stroke表示描边 边框的宽度和颜色-->
+
+    <stroke android:color="#000000"
+        android:width="2dp"/>
+
+</shape>

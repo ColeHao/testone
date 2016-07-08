@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">editdemo</string>
+    <string name="title_activity_serach">SerachActivity</string>
+</resources>
